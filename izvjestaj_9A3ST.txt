@@ -1,0 +1,123 @@
+==================================================
+ IZVJEŠTAJ ANALIZE NATJECANJA: 9A3ST
+ Izvorna datoteka: 9a3st.log
+==================================================
+
+QSO: 2025-07-12 1407 | Band: 40M (7159 kHz) | PH | Partner: 9A0HQ | Razmjena: 59 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-12 1508 | Band: 40M (7022 kHz) | CW | Partner: 9A0HQ | Razmjena: 599 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-12 1509 | Band: 20M (14002 kHz) | CW | Partner: TM0HQ | Razmjena: 599 REF | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-12 1510 | Band: 20M (14003 kHz) | CW | Partner: ED0HQ | Razmjena: 599 URE | Status: [GREŠKA VREMENA] - Partner vas je zabilježio, ali je razlika u vremenu veća od 10 minuta!
+QSO: 2025-07-12 1511 | Band: 20M (14011 kHz) | CW | Partner: RA3DS | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-12 1513 | Band: 20M (14012 kHz) | CW | Partner: A60HQ | Razmjena: 599 EARS | Status: [OK - HQ] - Usklađeno s HQ bazom (Očekivano: EARS)
+QSO: 2025-07-12 1514 | Band: 20M (14020 kHz) | CW | Partner: P3X | Razmjena: 599 39 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0517 | Band: 80M (3522 kHz) | CW | Partner: 9A0HQ | Razmjena: 599 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0518 | Band: 80M (3768 kHz) | PH | Partner: 9A0HQ | Razmjena: 59 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0523 | Band: 20M (14014 kHz) | CW | Partner: 3Z1K | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0525 | Band: 20M (14007 kHz) | CW | Partner: UA6LUQ | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0526 | Band: 20M (14031 kHz) | CW | Partner: SP2LNW | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0526 | Band: 20M (14033 kHz) | CW | Partner: YL2GD | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0526 | Band: 20M (14034 kHz) | CW | Partner: OG1F | Razmjena: 599 18 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0528 | Band: 20M (14041 kHz) | CW | Partner: VL2A | Razmjena: 599 55 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0534 | Band: 20M (14044 kHz) | CW | Partner: RN0D | Razmjena: 599 33 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0536 | Band: 20M (14027 kHz) | CW | Partner: LA2AB | Razmjena: 599 18 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0537 | Band: 20M (14001 kHz) | CW | Partner: UN3M | Razmjena: 599 30 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0538 | Band: 20M (14002 kHz) | CW | Partner: M/NP4Z | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0538 | Band: 20M (14004 kHz) | CW | Partner: UT5EL | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0539 | Band: 20M (14005 kHz) | CW | Partner: OH2HQ | Razmjena: 599 SRAL | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0540 | Band: 20M (14016 kHz) | CW | Partner: UR1UU | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0541 | Band: 20M (14020 kHz) | CW | Partner: ES7A | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0541 | Band: 20M (14021 kHz) | CW | Partner: OZ1HQ | Razmjena: 599 EDR | Status: [OK - HQ] - Usklađeno s HQ bazom (Očekivano: EDR)
+QSO: 2025-07-13 0542 | Band: 20M (14021 kHz) | CW | Partner: GR2HQ | Razmjena: 599 RSGB | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0544 | Band: 20M (14034 kHz) | CW | Partner: YL2GD | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0547 | Band: 20M (14032 kHz) | CW | Partner: SK9HQ | Razmjena: 599 SSA | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0547 | Band: 20M (14035 kHz) | CW | Partner: LZ0HQ | Razmjena: 599 BFRA | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0551 | Band: 20M (14051 kHz) | CW | Partner: RW4S | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0552 | Band: 20M (14051 kHz) | CW | Partner: R4MA | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0552 | Band: 20M (14051 kHz) | CW | Partner: UY2RA | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0554 | Band: 20M (14051 kHz) | CW | Partner: GB5WR | Razmjena: 599 27 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 0554 | Band: 20M (14051 kHz) | CW | Partner: SN0HQ | Razmjena: 599 PZK | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0555 | Band: 20M (14051 kHz) | CW | Partner: DF7BL | Razmjena: 599 28 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 0555 | Band: 20M (14051 kHz) | CW | Partner: UA4LCC | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0556 | Band: 20M (14051 kHz) | CW | Partner: OG6N | Razmjena: 599 18 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0556 | Band: 20M (14051 kHz) | CW | Partner: OG7F | Razmjena: 599 18 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0557 | Band: 20M (14051 kHz) | CW | Partner: SP4DEU | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0559 | Band: 20M (14051 kHz) | CW | Partner: R4HQ | Razmjena: 599 SRR | Status: [OK - HQ] - Usklađeno s HQ bazom (Očekivano: SRR)
+QSO: 2025-07-13 0559 | Band: 20M (14051 kHz) | CW | Partner: RA4KL | Razmjena: 599 29 | Status: [TIPFELER?] - Jeste li mislili na: RA4L [master.scp], RA4LW [master.scp], RA4LO [master.scp]? (Provjereno po bandu/modu: 20M CW, Primljeno: 599 29)
+QSO: 2025-07-13 0600 | Band: 20M (14051 kHz) | CW | Partner: PD9DX | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0602 | Band: 20M (14051 kHz) | CW | Partner: RL2Y | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0602 | Band: 20M (14051 kHz) | CW | Partner: G3P | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0610 | Band: 20M (14001 kHz) | CW | Partner: UP2L | Razmjena: 599 30 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0612 | Band: 20M (14023 kHz) | CW | Partner: LZ1ND | Razmjena: 599 28 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 0613 | Band: 20M (14024 kHz) | CW | Partner: OP0HQ | Razmjena: 599 UBA | Status: [OK - HQ] - Usklađeno s HQ bazom (Očekivano: UBA)
+QSO: 2025-07-13 0614 | Band: 20M (14032 kHz) | CW | Partner: DA0HQ | Razmjena: 599 DARC | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0616 | Band: 20M (14043 kHz) | CW | Partner: YR0HQ | Razmjena: 599 FRR | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0618 | Band: 20M (14058 kHz) | CW | Partner: SO5CW | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0619 | Band: 20M (14058 kHz) | CW | Partner: RT3C | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 0930 | Band: 15M (21031 kHz) | CW | Partner: 9A0HQ | Razmjena: 599 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0933 | Band: 20M (14308 kHz) | PH | Partner: 9A0HQ | Razmjena: 59 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 0953 | Band: 20M (14031 kHz) | CW | Partner: 9A0HQ | Razmjena: 599 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1011 | Band: 10M (28000 kHz) | PH | Partner: 9A0HQ | Razmjena: 59 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1015 | Band: 15M (21000 kHz) | PH | Partner: 9A0HQ | Razmjena: 59 HRS | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1126 | Band: 20M (14009 kHz) | CW | Partner: CQ9A | Razmjena: 599 36 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1127 | Band: 20M (14066 kHz) | CW | Partner: VE3TM | Razmjena: 599 04 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1128 | Band: 20M (14063 kHz) | CW | Partner: K3WW | Razmjena: 599 08 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1129 | Band: 20M (14061 kHz) | CW | Partner: PA6AA | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1131 | Band: 20M (14058 kHz) | CW | Partner: OE0HQ | Razmjena: 599 OV | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1136 | Band: 20M (14034 kHz) | CW | Partner: K9RS | Razmjena: 599 08 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1136 | Band: 20M (14033 kHz) | CW | Partner: HA0HV | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1137 | Band: 20M (14005 kHz) | CW | Partner: N6MJ | Razmjena: 599 06 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1139 | Band: 20M (14001 kHz) | CW | Partner: YR0K | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1141 | Band: 20M (14063 kHz) | CW | Partner: RM9A | Razmjena: 599 30 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1141 | Band: 20M (14063 kHz) | CW | Partner: DL5RMH | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1141 | Band: 20M (14063 kHz) | CW | Partner: IZ4JMA | Razmjena: 599 28 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 1142 | Band: 20M (14063 kHz) | CW | Partner: UT2 | Razmjena: 599 29 | Status: [TIPFELER?] - Jeste li mislili na: UT2T [master.scp], UT2G [master.scp], UT2UZ [master.scp]? (Provjereno po bandu/modu: 20M CW, Primljeno: 599 29)
+QSO: 2025-07-13 1143 | Band: 20M (14063 kHz) | CW | Partner: RO1M | Razmjena: 599 29 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 1145 | Band: 20M (14063 kHz) | CW | Partner: 9A2EY | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1145 | Band: 20M (14063 kHz) | CW | Partner: UR2Y | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1145 | Band: 20M (14063 kHz) | CW | Partner: DJ1OJ | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1146 | Band: 20M (14063 kHz) | CW | Partner: II4HQ | Razmjena: 599 ARI | Status: [NIL - NEMA U LOGU] - Partner (natjecatelj) ima vaš pozivni znak u logu, ali nema ove veze (NIL)
+QSO: 2025-07-13 1146 | Band: 20M (14063 kHz) | CW | Partner: DJ3NJ | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1147 | Band: 20M (14063 kHz) | CW | Partner: M6W | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1148 | Band: 20M (14063 kHz) | CW | Partner: RN3BL | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1148 | Band: 20M (14063 kHz) | CW | Partner: YL4U | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1149 | Band: 20M (14063 kHz) | CW | Partner: HB9HQ | Razmjena: 599 USKA | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1149 | Band: 20M (14063 kHz) | CW | Partner: DD2D | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1150 | Band: 20M (14063 kHz) | CW | Partner: EU1DC | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1150 | Band: 20M (14063 kHz) | CW | Partner: EA2CAR | Razmjena: 599 37 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1150 | Band: 20M (14063 kHz) | CW | Partner: RW9DX | Razmjena: 599 30 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1151 | Band: 20M (14063 kHz) | CW | Partner: CT3/MM0CCC | Razmjena: 599 36 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 1151 | Band: 20M (14063 kHz) | CW | Partner: 9A3NC | Razmjena: 599 28 | Status: [OK - CROSS] - Obostrano potvrđeno u logu partnera (vrijeme i band usklađeni)
+QSO: 2025-07-13 1152 | Band: 20M (14063 kHz) | CW | Partner: DM1T | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1152 | Band: 20M (14063 kHz) | CW | Partner: G3RTU | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1152 | Band: 20M (14063 kHz) | CW | Partner: G8AJM | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1153 | Band: 20M (14063 kHz) | CW | Partner: YO6BLU | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1153 | Band: 20M (14063 kHz) | CW | Partner: PA6F | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1155 | Band: 20M (14063 kHz) | CW | Partner: DM4KM | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1155 | Band: 20M (14063 kHz) | CW | Partner: DL2NBY | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1155 | Band: 20M (14063 kHz) | CW | Partner: HA7UI | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1156 | Band: 20M (14063 kHz) | CW | Partner: UX5VK | Razmjena: 599 29 | Status: [OK] - Znak postoji u ostalim logovima natjecatelja
+QSO: 2025-07-13 1156 | Band: 20M (14063 kHz) | CW | Partner: M0NMM | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1156 | Band: 20M (14063 kHz) | CW | Partner: SN3G | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1156 | Band: 20M (14063 kHz) | CW | Partner: R8TT | Razmjena: 599 30 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1157 | Band: 20M (14063 kHz) | CW | Partner: R3RK | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1157 | Band: 20M (14063 kHz) | CW | Partner: LY4K | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1158 | Band: 20M (14063 kHz) | CW | Partner: LN4BBC | Razmjena: 599 18 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1158 | Band: 20M (14063 kHz) | CW | Partner: OL8R | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1158 | Band: 20M (14063 kHz) | CW | Partner: PE1PIX | Razmjena: 599 27 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1159 | Band: 20M (14063 kHz) | CW | Partner: DJ1TF | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1159 | Band: 20M (14063 kHz) | CW | Partner: DL4AC | Razmjena: 599 28 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+QSO: 2025-07-13 1159 | Band: 20M (14063 kHz) | CW | Partner: HG7O | Razmjena: 599 28 | Status: [TIPFELER?] - Jeste li mislili na: OG7O [master.scp], NH7O [master.scp], HG7Y [master.scp]? (Provjereno po bandu/modu: 20M CW, Primljeno: 599 28)
+QSO: 2025-07-13 1200 | Band: 20M (14063 kHz) | CW | Partner: UA3AP | Razmjena: 599 29 | Status: [OK] - Usklađeno s RECEIVED_LOG.TXT bazom
+
+--------------------------------------------------
+SAŽETAK ZA 9A3ST:
+--------------------------------------------------
+ - Ukupno QSO: 105
+ - Obostrano potvrđenih (Cross-check OK): 20
+ - Ostalih ispravnih veza (HQ / baza): 80
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 3
+ - Nepoznatih: 0

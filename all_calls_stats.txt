@@ -1,0 +1,556 @@
+==================================================
+ SVEUKUPNA STATISTIKA SVIH POZIVNIH ZNAKOVA
+==================================================
+
+SAŽETAK ZA DA0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 19417
+ - Obostrano potvrđenih (Cross-check OK): 271
+ - Ostalih ispravnih veza (HQ / baza): 18562
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 24
+ - Grešaka banda: 4
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 544
+ - Nepoznatih: 12
+
+SAŽETAK ZA SN0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 17143
+ - Obostrano potvrđenih (Cross-check OK): 274
+ - Ostalih ispravnih veza (HQ / baza): 16371
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 20
+ - Grešaka banda: 6
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 458
+ - Nepoznatih: 10
+
+SAŽETAK ZA II1HQ:
+--------------------------------------------------
+ - Ukupno QSO: 16559
+ - Obostrano potvrđenih (Cross-check OK): 28
+ - Ostalih ispravnih veza (HQ / baza): 16098
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 25
+ - Grešaka banda: 10
+ - Nema u logu partnera (NIL): 284
+ - Mogućih tipfelera: 113
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 15234
+ - Obostrano potvrđenih (Cross-check OK): 290
+ - Ostalih ispravnih veza (HQ / baza): 14349
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 22
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 560
+ - Nepoznatih: 9
+
+SAŽETAK ZA TM0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 14769
+ - Obostrano potvrđenih (Cross-check OK): 262
+ - Ostalih ispravnih veza (HQ / baza): 13886
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 16
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 594
+ - Nepoznatih: 8
+
+SAŽETAK ZA S50HQ:
+--------------------------------------------------
+ - Ukupno QSO: 14229
+ - Obostrano potvrđenih (Cross-check OK): 289
+ - Ostalih ispravnih veza (HQ / baza): 13599
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 27
+ - Grešaka banda: 4
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 302
+ - Nepoznatih: 6
+
+SAŽETAK ZA LZ0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 13072
+ - Obostrano potvrđenih (Cross-check OK): 263
+ - Ostalih ispravnih veza (HQ / baza): 12330
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 19
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 3
+ - Mogućih tipfelera: 448
+ - Nepoznatih: 7
+
+SAŽETAK ZA ED0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 12332
+ - Obostrano potvrđenih (Cross-check OK): 63
+ - Ostalih ispravnih veza (HQ / baza): 12046
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 200
+ - Grešaka banda: 9
+ - Nema u logu partnera (NIL): 14
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA GR2HQ:
+--------------------------------------------------
+ - Ukupno QSO: 12332
+ - Obostrano potvrđenih (Cross-check OK): 259
+ - Ostalih ispravnih veza (HQ / baza): 12046
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 11
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 15
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA OE0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 10608
+ - Obostrano potvrđenih (Cross-check OK): 239
+ - Ostalih ispravnih veza (HQ / baza): 9914
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 27
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 419
+ - Nepoznatih: 5
+
+SAŽETAK ZA YR0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 9773
+ - Obostrano potvrđenih (Cross-check OK): 252
+ - Ostalih ispravnih veza (HQ / baza): 9147
+ - HQ grešaka: 3
+ - Grešaka vremena (>10 min): 22
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 3
+ - Mogućih tipfelera: 340
+ - Nepoznatih: 5
+
+SAŽETAK ZA HG0HQ:
+--------------------------------------------------
+ - Ukupno QSO: 8576
+ - Obostrano potvrđenih (Cross-check OK): 235
+ - Ostalih ispravnih veza (HQ / baza): 8123
+ - HQ grešaka: 3
+ - Grešaka vremena (>10 min): 23
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 186
+ - Nepoznatih: 3
+
+SAŽETAK ZA SK9HQ:
+--------------------------------------------------
+ - Ukupno QSO: 8554
+ - Obostrano potvrđenih (Cross-check OK): 226
+ - Ostalih ispravnih veza (HQ / baza): 8108
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 22
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 5
+ - Mogućih tipfelera: 189
+ - Nepoznatih: 2
+
+SAŽETAK ZA E7HQ:
+--------------------------------------------------
+ - Ukupno QSO: 8266
+ - Obostrano potvrđenih (Cross-check OK): 234
+ - Ostalih ispravnih veza (HQ / baza): 7775
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 20
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 230
+ - Nepoznatih: 1
+
+SAŽETAK ZA OH2HQ:
+--------------------------------------------------
+ - Ukupno QSO: 8199
+ - Obostrano potvrđenih (Cross-check OK): 195
+ - Ostalih ispravnih veza (HQ / baza): 7754
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 38
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 6
+ - Mogućih tipfelera: 198
+ - Nepoznatih: 5
+
+SAŽETAK ZA HB9HQ:
+--------------------------------------------------
+ - Ukupno QSO: 7246
+ - Obostrano potvrđenih (Cross-check OK): 215
+ - Ostalih ispravnih veza (HQ / baza): 6850
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 27
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 3
+ - Mogućih tipfelera: 149
+ - Nepoznatih: 1
+
+SAŽETAK ZA E7DX:
+--------------------------------------------------
+ - Ukupno QSO: 3770
+ - Obostrano potvrđenih (Cross-check OK): 180
+ - Ostalih ispravnih veza (HQ / baza): 3509
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 11
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 65
+ - Nepoznatih: 0
+
+SAŽETAK ZA HG7T:
+--------------------------------------------------
+ - Ukupno QSO: 3581
+ - Obostrano potvrđenih (Cross-check OK): 167
+ - Ostalih ispravnih veza (HQ / baza): 3324
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 12
+ - Grešaka banda: 1
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 73
+ - Nepoznatih: 2
+
+SAŽETAK ZA II9HQ:
+--------------------------------------------------
+ - Ukupno QSO: 3445
+ - Obostrano potvrđenih (Cross-check OK): 74
+ - Ostalih ispravnih veza (HQ / baza): 3359
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 12
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA 8N2HQ:
+--------------------------------------------------
+ - Ukupno QSO: 3232
+ - Obostrano potvrđenih (Cross-check OK): 51
+ - Ostalih ispravnih veza (HQ / baza): 2583
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 3
+ - Mogućih tipfelera: 470
+ - Nepoznatih: 124
+
+SAŽETAK ZA II2HQ:
+--------------------------------------------------
+ - Ukupno QSO: 3013
+ - Obostrano potvrđenih (Cross-check OK): 60
+ - Ostalih ispravnih veza (HQ / baza): 2939
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 14
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA II4HQ:
+--------------------------------------------------
+ - Ukupno QSO: 3013
+ - Obostrano potvrđenih (Cross-check OK): 5
+ - Ostalih ispravnih veza (HQ / baza): 2939
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 40
+ - Grešaka banda: 3
+ - Nema u logu partnera (NIL): 26
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA HG6N:
+--------------------------------------------------
+ - Ukupno QSO: 2627
+ - Obostrano potvrđenih (Cross-check OK): 129
+ - Ostalih ispravnih veza (HQ / baza): 2465
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 13
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 7
+ - Mogućih tipfelera: 13
+ - Nepoznatih: 0
+
+SAŽETAK ZA VY2TT:
+--------------------------------------------------
+ - Ukupno QSO: 2619
+ - Obostrano potvrđenih (Cross-check OK): 112
+ - Ostalih ispravnih veza (HQ / baza): 2439
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 11
+ - Grešaka banda: 2
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 50
+ - Nepoznatih: 1
+
+SAŽETAK ZA II6HQ:
+--------------------------------------------------
+ - Ukupno QSO: 2099
+ - Obostrano potvrđenih (Cross-check OK): 23
+ - Ostalih ispravnih veza (HQ / baza): 2071
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 4
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA 8N6HQ:
+--------------------------------------------------
+ - Ukupno QSO: 1241
+ - Obostrano potvrđenih (Cross-check OK): 17
+ - Ostalih ispravnih veza (HQ / baza): 1105
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 3
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 95
+ - Nepoznatih: 19
+
+SAŽETAK ZA 9A1AA:
+--------------------------------------------------
+ - Ukupno QSO: 1145
+ - Obostrano potvrđenih (Cross-check OK): 87
+ - Ostalih ispravnih veza (HQ / baza): 1040
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 4
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 6
+ - Mogućih tipfelera: 8
+ - Nepoznatih: 0
+
+SAŽETAK ZA 8N8HQ:
+--------------------------------------------------
+ - Ukupno QSO: 1020
+ - Obostrano potvrđenih (Cross-check OK): 10
+ - Ostalih ispravnih veza (HQ / baza): 871
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 116
+ - Nepoznatih: 22
+
+SAŽETAK ZA II11HQ:
+--------------------------------------------------
+ - Ukupno QSO: 873
+ - Obostrano potvrđenih (Cross-check OK): 0
+ - Ostalih ispravnih veza (HQ / baza): 843
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 30
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A1MM:
+--------------------------------------------------
+ - Ukupno QSO: 498
+ - Obostrano potvrđenih (Cross-check OK): 63
+ - Ostalih ispravnih veza (HQ / baza): 412
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 21
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A925T:
+--------------------------------------------------
+ - Ukupno QSO: 439
+ - Obostrano potvrđenih (Cross-check OK): 57
+ - Ostalih ispravnih veza (HQ / baza): 364
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 3
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 13
+ - Mogućih tipfelera: 2
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A2NO:
+--------------------------------------------------
+ - Ukupno QSO: 400
+ - Obostrano potvrđenih (Cross-check OK): 23
+ - Ostalih ispravnih veza (HQ / baza): 369
+ - HQ grešaka: 4
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 2
+ - Nepoznatih: 0
+
+SAŽETAK ZA ZD7BG:
+--------------------------------------------------
+ - Ukupno QSO: 345
+ - Obostrano potvrđenih (Cross-check OK): 35
+ - Ostalih ispravnih veza (HQ / baza): 299
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 3
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 4
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A9O:
+--------------------------------------------------
+ - Ukupno QSO: 272
+ - Obostrano potvrđenih (Cross-check OK): 68
+ - Ostalih ispravnih veza (HQ / baza): 197
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 4
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 1
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A8TT:
+--------------------------------------------------
+ - Ukupno QSO: 225
+ - Obostrano potvrđenih (Cross-check OK): 67
+ - Ostalih ispravnih veza (HQ / baza): 149
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 2
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 4
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A7B:
+--------------------------------------------------
+ - Ukupno QSO: 216
+ - Obostrano potvrđenih (Cross-check OK): 30
+ - Ostalih ispravnih veza (HQ / baza): 177
+ - HQ grešaka: 1
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 4
+ - Mogućih tipfelera: 3
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A4W:
+--------------------------------------------------
+ - Ukupno QSO: 161
+ - Obostrano potvrđenih (Cross-check OK): 59
+ - Ostalih ispravnih veza (HQ / baza): 98
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 2
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA VY0ERC:
+--------------------------------------------------
+ - Ukupno QSO: 151
+ - Obostrano potvrđenih (Cross-check OK): 28
+ - Ostalih ispravnih veza (HQ / baza): 118
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 4
+ - Nepoznatih: 0
+
+SAŽETAK ZA IS0_S55OO:
+--------------------------------------------------
+ - Ukupno QSO: 111
+ - Obostrano potvrđenih (Cross-check OK): 0
+ - Ostalih ispravnih veza (HQ / baza): 65
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 45
+ - Mogućih tipfelera: 1
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A3ST:
+--------------------------------------------------
+ - Ukupno QSO: 105
+ - Obostrano potvrđenih (Cross-check OK): 20
+ - Ostalih ispravnih veza (HQ / baza): 80
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 3
+ - Nepoznatih: 0
+
+SAŽETAK ZA TK_DL7CX:
+--------------------------------------------------
+ - Ukupno QSO: 85
+ - Obostrano potvrđenih (Cross-check OK): 0
+ - Ostalih ispravnih veza (HQ / baza): 53
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 27
+ - Mogućih tipfelera: 5
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A6NA:
+--------------------------------------------------
+ - Ukupno QSO: 77
+ - Obostrano potvrđenih (Cross-check OK): 8
+ - Ostalih ispravnih veza (HQ / baza): 67
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A3NC:
+--------------------------------------------------
+ - Ukupno QSO: 63
+ - Obostrano potvrđenih (Cross-check OK): 33
+ - Ostalih ispravnih veza (HQ / baza): 27
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 2
+ - Mogućih tipfelera: 1
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A9Z:
+--------------------------------------------------
+ - Ukupno QSO: 63
+ - Obostrano potvrđenih (Cross-check OK): 18
+ - Ostalih ispravnih veza (HQ / baza): 43
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 1
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
+SAŽETAK ZA 9A2VX:
+--------------------------------------------------
+ - Ukupno QSO: 37
+ - Obostrano potvrđenih (Cross-check OK): 7
+ - Ostalih ispravnih veza (HQ / baza): 28
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 1
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 1
+ - Nepoznatih: 0
+
+SAŽETAK ZA VK3WIA:
+--------------------------------------------------
+ - Ukupno QSO: 24
+ - Obostrano potvrđenih (Cross-check OK): 7
+ - Ostalih ispravnih veza (HQ / baza): 17
+ - HQ grešaka: 0
+ - Grešaka vremena (>10 min): 0
+ - Grešaka banda: 0
+ - Nema u logu partnera (NIL): 0
+ - Mogućih tipfelera: 0
+ - Nepoznatih: 0
+
